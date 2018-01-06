@@ -3,4 +3,4 @@
 new line
 elo elo
 elo elo
-dodaje nowy kod
+dodaje nowy mlot
